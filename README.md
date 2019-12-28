@@ -9,3 +9,9 @@ So where do I go to report this so the newbie instructions can be clairfied I fo
 Did you notice the spelling errors in this message this editor or whatever its called has no spell checker - Amazing this day and age there is no spell checking for us who can barely type. If I knew what this thing I am typing in was called and could find a link to request a spell check feature to be added in the future.... Heck if I could find the Fourms and collabrate with others I could probably make a GitHub Spell Checker as my first project on GitHub
 
 Will the excersise in confusion continue?
+
+SO I cant reply to this file I can just edit this file, ok so I will edit.
+
+I found it funny that after the clueless NEW GetHub user gets involved with instructions found here https://guides.github.com/activities/hello-world/ it is suggested you open the link into a NEW window in your browser "Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial." why wouldnt the person who created this page just force the link that takes you to this page to open a new window, then before the work steps mention "You will notice when you clicked on the link to The Hello World project we opened it in a new window so you can Alt Tab back and forth" over allowing them to read into the instructions then suggest it disrupting the nubies train of thought?
+
+Dont get me wrong just listing a few things that needlessly created confusion, flustration for a new user, distractions when you need them the least.
