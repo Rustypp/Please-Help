@@ -8,4 +8,4 @@ So where do I go to report this so the newbie instructions can be clairfied I fo
 
 Did you notice the spelling errors in this message this editor or whatever its called has no spell checker - Amazing this day and age there is no spell checking for us who can barely type. If I knew what this thing I am typing in was called and could find a link to request a spell check feature to be added in the future.... Heck if I could find the Fourms and collabrate with others I could probably make a GitHub Spell Checker as my first project on GitHub
 
-TWill the excersise in confusion continue?
+Will the excersise in confusion continue?
